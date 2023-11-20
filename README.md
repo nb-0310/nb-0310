@@ -46,13 +46,12 @@ I am a Full Stack Developer with a specialized focus and strong passion and huge
 - :globe_with_meridians: Check out my portfolio at [My Portfolio](https://nirzarbhatt.netlify.app/).
 - 📫 I am just one mail away - [nirzarbhatt031093@gmail.com](nirzarbhatt031093@gmail.com)
 - :partying_face: Fun fact: I love to cook.
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 
 ### Numbers
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nb-0310&theme=darcula&hide_border=true)
+![Nirzar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nb-0310&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nb-0310&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Nirzar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nb-0310&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
